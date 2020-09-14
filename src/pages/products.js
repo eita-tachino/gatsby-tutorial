@@ -4,7 +4,6 @@ import Layout from "../components/layout"
 import styles from "../components/products.module.css"
 import Image from "gatsby-image"
 import { Link } from "gatsby"
-import Images from "../examples/images"
 
 const ComponentName = ({ data }) => {
   const {
